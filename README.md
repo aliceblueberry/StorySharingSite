@@ -1,5 +1,5 @@
 # summer2019-module7-458837-465349
-
+approved by Kent Wu
 # Story Sharing Site Rubric
 
 ## Rubric turned in on time (5 points)

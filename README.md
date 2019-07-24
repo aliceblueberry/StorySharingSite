@@ -28,22 +28,20 @@ approved by Kent Wu
 * 3 points — Stories can be edited and deleted
 * 3 points — Comments can be edited and deleted
 
-### Best Practices (20 points)
+### Best Practices (15 points)
 
-* 4 points — Code is readable and well formatted
+* 3 points — Code is readable and well formatted
 * 3 points — passwords are sorted and hashed
-* 4 points — Safe from SQL injection attacks
 * 3 points — All pages pass the html validator
-* 3 points — Site follows the FIEO philosophy
+* 2 points — Site follows the FIEO philosophy
 * 2 points — Session cookies is HTTP-Only
-* 1 point — CSRF tokens are passed when creating, editing, and deleting comments and stories
+* 2 point — CSRF tokens are passed when creating, editing, and deleting comments and stories
 
 ## Usability (5 points)
 
 * 2 points — Site is intuitive to use and navigate
-* 3 points — Site is visually appealing; uses SASS/SCSS(1pt) animation (2pts)
-
-## Creative Portion (15 points)
+* 3 points — Site is visually appealing: uses SASS/SCSS
+## Creative Portion (20 points)
 
 Include a README.md file in group repo with following information:
 

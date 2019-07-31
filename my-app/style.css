@@ -1,0 +1,92 @@
+venStory{
+  margin: 5px;
+  padding: 10px;
+}
+
+.comments{
+  background-color: #f4f4f4;
+  color: #555555;
+  font-family: cursive, Arial;
+  font-size: 20px;
+  float:left;
+  width: 60%;
+  padding: 0px;
+  box-sizing: border-box;
+  margin: 5px;
+  border-radius: 20px;
+}
+
+.storycard{
+  background-color: #f4f4f4;
+  color: #555555;
+  font-family: cursive, Arial;
+  float:left;
+  width: 26%;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: 5px;
+}
+.storycard:hover{
+  background: cornsilk;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #eee;
+  text-shadow:none;
+}
+
+.navbar{
+  font-family: "Comic Sans MS";
+  float: left;
+  height: 550px;
+  width: 18%;
+  background: cornsilk;
+  border-radius: 20px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  margin: 5px;
+}
+.navbar:hover{
+  background: #f4f4f4;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #eee;
+  text-shadow:none;
+}
+
+.button{
+  background: #B9DFFF;
+  color: #fff;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #eee;
+  text-shadow:none;
+}
+.button:hover{
+  background: #016ABC;
+  color: #fff;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #eee;
+  text-shadow:none;
+}
+
+.header{
+  font-family: "Comic Sans MS";
+  background-color:  #B6B6B4;
+  height: 50px;
+  text-align: left;
+  margin: 5px;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.checkbox{
+  display: flex;
+  align-content: center;
+  width: 70%;
+  padding: 30px 20px 0;
+  font-size: 30px;
+  color: #333333
+}
+

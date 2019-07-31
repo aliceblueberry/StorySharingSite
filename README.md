@@ -40,7 +40,8 @@ approved by Kent Wu
 ## Usability (5 points)
 
 * 2 points — Site is intuitive to use and navigate
-* 3 points — Site is visually appealing: uses SASS/SCSS
+* 3 points — Site is visually appealing
+edit: uses SASS/SCSS requirement deleted, because SASS/SCSS is not supported by react app version1.0 (not applicable)
 ## Creative Portion (20 points)
 
 Include a README.md file in group repo with following information:
